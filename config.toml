@@ -1,0 +1,38 @@
+BaseUrl= "https://www.jancislinsky.cz/"
+LanguageCode= "en-US"
+Title= "Siever App for iOS"
+# paginate = 5
+# DisqusShortname = "jancislinsky"
+Copyright = "© 2017"
+canonifyurls = true
+theme = "casper"
+
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "home"
+  url = "/"
+  
+[params]
+  description = "Getting tired of text messages from unknown numbers?"
+  myApps = "Download from AppStore"
+  myApp1Image = "images/app-siever.png"
+  myApp1Name = "Siever"
+  myApp1Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
+
+  cover = "images/cover.jpg"
+  author = "Jan Čislinský"
+  bio= "iOS developer ve společnosti Etnetera a.s."
+  authorlocation = ""
+  authorwebsite = ""
+  
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-11117746-16"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..." 
+  # githubName = "jcislinsky"
+  twitterName = "jcislinsky"
+  # facebookName = ""
+  # linkedinName = "jcislinsky"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false

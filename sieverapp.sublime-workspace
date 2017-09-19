@@ -1,0 +1,1206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"REQUIRED_HOOKS_PATH"
+			],
+			[
+				"DPHF",
+				"DPHFORM_OUT"
+			],
+			[
+				"memor",
+				"memories"
+			],
+			[
+				"attache",
+				"attachementsIds"
+			],
+			[
+				"atta",
+				"attachements"
+			],
+			[
+				"resized",
+				"resizedFiles"
+			],
+			[
+				"cong",
+				"config"
+			],
+			[
+				"Promise",
+				"propertyIsEnumerable( p: string ): boolean\tObject"
+			],
+			[
+				"parent",
+				"parentId"
+			],
+			[
+				"googleDrive",
+				"googleDriveOriginalFolderId"
+			],
+			[
+				"googleDrivew",
+				"googleDriveW480FolderId"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fileds",
+				"fields"
+			],
+			[
+				"upload",
+				"uploadedFile"
+			],
+			[
+				"acce",
+				"access_token"
+			],
+			[
+				"create_",
+				"create_preview"
+			],
+			[
+				"completion",
+				"completionUrl"
+			],
+			[
+				"comple",
+				"completionUrl"
+			],
+			[
+				"memori",
+				"memoriesHtml"
+			],
+			[
+				"sto",
+				"storage"
+			],
+			[
+				"start_",
+				"start_posy"
+			],
+			[
+				"email",
+				"emailMask"
+			],
+			[
+				"until",
+				"untilDate"
+			],
+			[
+				"sinc",
+				"sinceDate"
+			],
+			[
+				"sin",
+				"sinceDate"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"sr-conte",
+				"sr-content-loaded"
+			],
+			[
+				"branch",
+				"branchCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "lower",
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty pr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install a",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"ReIndent: to 2"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reid",
+				"ReIndent: to 2"
+			],
+			[
+				"reident",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reiden",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"reide",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reind",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"rei",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reinte",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"filterlin",
+				"Filter Lines: Include lines with String"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"filter lin",
+				"Filter Lines: Include lines with String"
+			],
+			[
+				"conflicre",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"fold",
+				"Filter Lines: Fold With Regex"
+			],
+			[
+				"filter",
+				"Filter Lines: Include lines with String"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"isntall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"conflict",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keep",
+				"Git Conflict Resolver: Keep Current"
+			],
+			[
+				"keepbo",
+				"Git Conflict Resolver: Keep Both"
+			],
+			[
+				"nextcon",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"filterline",
+				"Filter Lines: Include lines with String"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"reso",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"git ",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"keept",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"nextco",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"keecoa",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"keepco",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"git conf",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"filterre",
+				"Filter Lines: Include lines with Regex"
+			],
+			[
+				"setxml",
+				"Set Syntax: XML"
+			],
+			[
+				"json ",
+				"Set Syntax: JSON"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"synma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"reidente",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"filter ",
+				"Filter Lines: Filter With String"
+			],
+			[
+				"reintend",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"next",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"filterli",
+				"Filter Lines: Filter With Regex"
+			],
+			[
+				"next con",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"next co",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"resolve ",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"reinten",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"filter s",
+				"Filter Lines: Fold With String"
+			],
+			[
+				"next o",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"conflic",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"togglec",
+				"Toggle Comment"
+			],
+			[
+				"material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"toggle c",
+				"Toggle Comment"
+			],
+			[
+				"sublimelinter: ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install ap",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"togl",
+				"Toggle Comment"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"reiten",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"firebase",
+				"Snippet: Firebase OAuth popup"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"confi",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"sortli",
+				"Sort Lines"
+			],
+			[
+				"reidne",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reinder",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"reindet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"find ne",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"find nex",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"findne",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"next c",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"resolve",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"find next",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"find",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"resolve keep",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"conficts",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 273.0,
+		"history":
+		[
+			"command keep {\"keep\": \"ours\"}",
+			"command: keep {\"keep\": \"ours\"}",
+			"\"keep {\\\"keep\\\": \\\"ours\\\"}\"",
+			"keep {\"keep\": \"ours\"}",
+			"keep {\"keep\": \"both\"}",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jancislinsky/Repos/Web/sieverapp.com"
+	],
+	"file_history":
+	[
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Scripts/XcodeVersioning.sh",
+		"/Users/jancislinsky/Documents/Shared Playground Data/model.0.json",
+		"/Users/jancislinsky/Documents/Shared Playground Data/model.json",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Classifiers/naive-bayes-classifier/Project/NaiveBayesClassifier/Sources/BayesModel.swift",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Classifiers/naive-bayes-classifier/Project/NaiveBayesClassifier/Sources/MessageClassifier.swift",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Classifiers/naive-bayes-classifier/Project/Playground.playground/Sources/Precompiled.swift",
+		"/Users/jancislinsky/.bashrc",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/smsspamblocker/Resources/model.json",
+		"/Users/jancislinsky/Charles Responses/fortuna/leagues/competition/match-synthetic.json",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/.git/COMMIT_EDITMSG",
+		"/Users/jancislinsky/Documents/Shared Playground Data/model copy.json",
+		"/Users/jancislinsky/Google Drive/Podnikání/Jan Čislinský/Datová schránka/Odchozí/Přiznání k DPH + souhrnné hlášení/pokyny.md",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Core/Controllers/FORNavigationController.m",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Core/Controllers/WebView/WKWebViewVC.swift",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Core/Coordinators/WebViewCoordinator.m",
+		"/Users/jancislinsky/Desktop/negative.csv",
+		"/Users/jancislinsky/Desktop/positive.csv",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/.swiftlint.yml",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/IconVersioning.sh",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/Main.sh",
+		"/Users/jancislinsky/Repos/iOS/etn-libraries/ETN-Libraries.podspec",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Core/Synchronization/Protocols/FORCustomURLProtocol.m",
+		"/Users/jancislinsky/Downloads/ETN Enterprise/pass.txt",
+		"/Users/jancislinsky/Downloads/377a84841ecedf66575922c98a8a9299.mobileprovision",
+		"/Users/jancislinsky/Downloads/devices.txt",
+		"/Users/jancislinsky/Repos/iOS/O2-Extra-Redesign-IOS/Certificates/O2 Distribution/password.txt",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Cartfilei",
+		"/Users/jancislinsky/Downloads/Siever_main_en.xliff",
+		"/Users/jancislinsky/.bashr",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Cartfile",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/index.html",
+		"/Users/jancislinsky/Downloads/fps.txt",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-firebase-hosting/functions/index.js",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/css/custom.css",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/functions/index.js",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/firebase.json",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/js/custom.js",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/smsspamblocker.xcodeproj/project.pbxproj",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/smsspamblocker/AppDelegate.swift",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/functions/package.json",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-firebase-functions/functions/index.js",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/build/sass/main/_variables.sass",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/css/main.css",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/css/main.min.css",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/vendor/revolution-slider/revolution/css/navigation.css",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/build/sass/main/_utilities.sass",
+		"/Users/jancislinsky/Repos/Web/mobile-academy-web/Firebase/public/assets/vendor/font-awesome/css/font-awesome.css",
+		"/Users/jancislinsky/.bash_profile",
+		"/Users/jancislinsky/.profile",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/fastlane/Fastfile",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Podfile",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/XcodeVersioning.sh",
+		"/Users/jancislinsky/Library/Developer/Xcode/DerivedData/Fortuna-bvzglgoekwzwphcupjknrhvvrcvk/Build/Products/Debug-iphonesimulator/FTN ETN.app/Info.plist",
+		"/Users/jancislinsky/Repos/iOS/ETMultiColumnBadgeViewProvider/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/ETMultiColumnLabelProvider/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/ETMultiColumnNestingProvider/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/ETMultiColumnCell/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/ETMultiColumnView/.git/COMMIT_EDITMSG",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Scripts/hooks/commit-msg",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Scripts/SetHooksPath.sh",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Classifiers/naive-bayes-classifier/DataSets/SMSSpamCollection.txt",
+		"/Users/jancislinsky/Desktop/loca.txt",
+		"/Users/jancislinsky/Google Drive/Podnikání/Jan Čislinský/Datová schránka/Odchozí/Přiznání k DPH + souhrnné hlášení/Template/prepareDocuments.bash",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/CHANGELOG.md",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Scripts/pbxproj_structure_check.rb",
+		"/Users/jancislinsky/Desktop/Mise.svg",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/CArtfile",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/Podfile",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Project/smsspamblocker.xcworkspace/contents.xcworkspacedata",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/SetHooksPath.sh",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/hooks/commit-msg",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/.git/config",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Scripts/pbxproj_structure_check.rb",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/.git/hooks/commit-msg",
+		"/Users/jancislinsky/Repos/iOS/etn-ios/README.markdown",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-firebase-hosting/firebase.json",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-firebase-hosting/public/apple-app-site-association",
+		"/Users/jancislinsky/Repos/Web/sieverapp.com/.git/config",
+		"/Users/jancislinsky/Repos/iOS/naive-bayes-classifier/probabilities.txt",
+		"/var/folders/7_/9vnqns1d2bvdd7w_0md5t55c0000gn/T/carthage-xcodebuild.oh4cZx.log",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/Cartfile",
+		"/Users/jancislinsky/Repos/iOS/smsspamblocker-ios/.git/config",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Fortuna/FORUserManager.m",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Fortuna.xcodeproj/project.pbxproj",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Fortuna/FORTicketDetailVC.m",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Carthage/Build/iOS/ETMultiColumnView.framework/ETMultiColumnView",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Carthage/Build/iOS/ETMultiColumnNestingProvider.framework.dSYM/Contents/Resources/DWARF/ETMultiColumnNestingProvider",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Carthage/Build/iOS/ETMultiColumnView.framework.dSYM/Contents/Resources/DWARF/ETMultiColumnView",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Carthage/Build/iOS/ETMultiColumnNestingProvider.framework/ETMultiColumnNestingProvider",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Fortuna/MPStreamPlayer.swift",
+		"/Users/jancislinsky/Repos/Web/sieverapp.com/public/index.html",
+		"/Users/jancislinsky/Repos/Web/sieverapp.com/config.toml",
+		"/Users/jancislinsky/Repos/Web/sieverapp.com/README.md",
+		"/Users/jancislinsky/Downloads/Toggl_time_entries_2017-07-01_to_2017-07-31.csv",
+		"/Users/jancislinsky/Repos/Web/www.jancislinsky.cz/.git/COMMIT_EDITMSG",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/objective-zip/objective-zip.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/SendGrid/SendGrid.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/SMTPAPI/SMTPAPI.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Reachability/Reachability.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk/Pods-Fortuna.sk.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk/Pods-Fortuna.sk.release.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk/Pods-Fortuna.sk.debug.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk/Pods-Fortuna.sk.appstore.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk/Pods-Fortuna.sk-acknowledgements.plist",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk Beta/Pods-Fortuna.sk Beta.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk Beta/Pods-Fortuna.sk Beta.release.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk Beta/Pods-Fortuna.sk Beta.debug.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk Beta/Pods-Fortuna.sk Beta.appstore.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.sk Beta/Pods-Fortuna.sk Beta-acknowledgements.plist",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl/Pods-Fortuna.pl.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl/Pods-Fortuna.pl.release.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl/Pods-Fortuna.pl.debug.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl/Pods-Fortuna.pl.appstore.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl/Pods-Fortuna.pl-acknowledgements.plist",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl Beta/Pods-Fortuna.pl Beta.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl Beta/Pods-Fortuna.pl Beta.release.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl Beta/Pods-Fortuna.pl Beta.debug.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl Beta/Pods-Fortuna.pl Beta.appstore.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.pl Beta/Pods-Fortuna.pl Beta-acknowledgements.plist",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz/Pods-Fortuna.cz.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz/Pods-Fortuna.cz.release.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz/Pods-Fortuna.cz.debug.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz/Pods-Fortuna.cz.appstore.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz/Pods-Fortuna.cz-acknowledgements.plist",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz Beta/Pods-Fortuna.cz Beta.test.xcconfig",
+		"/Users/jancislinsky/Repos/iOS/Fortuna-iOS/Project/Pods/Target Support Files/Pods-Fortuna.cz Beta/Pods-Fortuna.cz Beta.release.xcconfig"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sieverapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pbxproj",
+				"Fortuna.xcodeproj/project.pbxproj"
+			],
+			[
+				"acccoordi",
+				"Fortuna/AccountCoordinator.m"
+			],
+			[
+				"logicoor",
+				"Fortuna/LoginCoordinator.m"
+			],
+			[
+				"configucoor.",
+				"Fortuna/ConfigurationCoordinator.m"
+			],
+			[
+				"accoucom",
+				"Fortuna/AccountCoordinator.m"
+			],
+			[
+				"accoucoo",
+				"Fortuna/AccountCoordinator.h"
+			],
+			[
+				"contacoord",
+				"Fortuna/ContactCoordinator.m"
+			],
+			[
+				"webvicoor",
+				"Fortuna/WebViewCoordinator.m"
+			],
+			[
+				"lidemoupdatewisele",
+				"Fortuna/MatchDetail/FORLiveDetailModelUpdaterWithSelection.swift"
+			],
+			[
+				"etmodelupda+",
+				"Fortuna/ETCodeBase/DynamicTableView/ETModelUpdater+ToggleSection.swift"
+			],
+			[
+				"etmodeupda",
+				"Fortuna/ETCodeBase/DynamicTableView/ETModelUpdater.swift"
+			],
+			[
+				"livedemoupdawise",
+				"Fortuna/LiveMatchDetail/FORLiveDetailModelUpdaterWithSelection.swift"
+			],
+			[
+				"forlivedetailmodelupdaterobjc.swift",
+				"Fortuna/MatchDetail/FORLiveDetailModelUpdaterObjc.swift"
+			],
+			[
+				"seavc.m",
+				"Fortuna/FORSearchVC.m"
+			],
+			[
+				"seacoor",
+				"Fortuna/SearchCoordinator.m"
+			],
+			[
+				"webvivc",
+				"Fortuna/FORWebViewVC.h"
+			],
+			[
+				"searcoo",
+				"Fortuna/SearchCoordinator.m"
+			],
+			[
+				"",
+				"~/Repos/iOS/Fortuna-iOS/Project/Fortuna/FORWebViewVC.m"
+			],
+			[
+				"liveeve",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/LiveEvent.java"
+			],
+			[
+				"event",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/stream/response/perform/Event.java"
+			],
+			[
+				"livematch",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/sport/LiveMatch.java"
+			],
+			[
+				"liveodd.",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/LiveOdd.java"
+			],
+			[
+				"market.ja",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/Market.java"
+			],
+			[
+				"marketgroup.",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/MarketGroup.java"
+			],
+			[
+				"odd.java",
+				"app/src/main/java/cz/etnetera/fortuna/model/market/Odd.java"
+			],
+			[
+				"livedetachange",
+				"app/src/main/java/cz/etnetera/fortuna/model/live/changes/LiveDetailMarketsChange.java"
+			],
+			[
+				"livedetailviewmode",
+				"main/java/cz/etnetera/fortuna/model/live/LiveDetailViewModel.java"
+			],
+			[
+				"livedetailupda",
+				"main/java/cz/etnetera/fortuna/services/websocket/LiveDetailUpdater.java"
+			],
+			[
+				"ticket",
+				"src/main/java/cz/etnetera/fortuna/model/navipro/ticket/Ticket.java"
+			],
+			[
+				"sendticke",
+				"src/main/java/cz/etnetera/fortuna/model/SendTicketCommand.java"
+			],
+			[
+				"livematchdetavc",
+				"FORLiveMatchDetailVC.m"
+			],
+			[
+				"bettinghistoryfilter",
+				"src/main/java/cz/etnetera/fortuna/model/account/BettingHistoryFilter.java"
+			],
+			[
+				"sendticket",
+				"app/src/main/java/cz/etnetera/fortuna/model/SendTicketCommand.java"
+			],
+			[
+				"project",
+				"Fortuna.xcodeproj/project.pbxproj"
+			],
+			[
+				"configurationman",
+				"Fortuna/FORConfigurationManager.m"
+			],
+			[
+				"appdle",
+				"Fortuna/AppDelegate.h"
+			],
+			[
+				"apisynce",
+				"Fortuna/FORApiSyncer.m"
+			],
+			[
+				"matchesvc",
+				"Fortuna/FORLiveMatchesVC.m"
+			],
+			[
+				"webviewvc",
+				"Fortuna/FORWebViewVC.m"
+			],
+			[
+				"navigationcont",
+				"Fortuna/FORNavigationController.m"
+			],
+			[
+				"project.p",
+				"Fortuna.xcodeproj/project.pbxproj"
+			],
+			[
+				"ticketdetavc",
+				"Fortuna/FORTicketDetailVC.m"
+			],
+			[
+				"sportentity",
+				"app/src/main/java/cz/etnetera/fortuna/persistence/dto/prematch/db/SportEntity.java"
+			],
+			[
+				"leaguescall",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/callback/LeaguesCallback.java"
+			],
+			[
+				"sportscall",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/callback/SportsCallback.java"
+			],
+			[
+				"filtermatchecall",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/callback/FilteredMatchesCallback.java"
+			],
+			[
+				"sportfilter",
+				"app/src/main/java/cz/etnetera/fortuna/fragments/prematch/SportFilteredMatchesFragment.java"
+			],
+			[
+				"prematchser",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/PrematchService.java"
+			],
+			[
+				"prematchapi",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/PrematchApi.java"
+			],
+			[
+				"ticketdetail",
+				"Fortuna/FORTicketDetailVC.m"
+			],
+			[
+				"ticketman",
+				"Fortuna/FORTicketManager.m"
+			],
+			[
+				"ticketdetailvc",
+				"Fortuna/FORTicketDetailVC.m"
+			],
+			[
+				"contactusvc",
+				"Fortuna/FORContactUsVC.m"
+			],
+			[
+				"ticketmana",
+				"app/src/main/java/cz/etnetera/fortuna/model/SendTicketCommand.java"
+			],
+			[
+				"ticketmanager",
+				"Fortuna/FORTicketManager.m"
+			],
+			[
+				"project.pbxp",
+				"Fortuna.xcodeproj/project.pbxproj"
+			],
+			[
+				"mobileticketoper",
+				"Fortuna/MobileTicketOperationResult.h"
+			],
+			[
+				"mobiletickeope",
+				"Fortuna/MobileTicketOperationResult.m"
+			],
+			[
+				"usermanager.m",
+				"Fortuna/FORUserManager.m"
+			],
+			[
+				"forusermana",
+				"Fortuna/FORUserManager.h"
+			],
+			[
+				"toastview",
+				"Fortuna/FORToastView.m"
+			],
+			[
+				"ticketvc.",
+				"Fortuna/FORTicketVC.m"
+			],
+			[
+				"ticketmanager.h",
+				"Fortuna/FORTicketManager.h"
+			],
+			[
+				"ticketmanager.",
+				"Fortuna/FORTicketManager.m"
+			],
+			[
+				"ticketmanage",
+				"Fortuna/FORTicketManager.h"
+			],
+			[
+				"ticketdt",
+				"Fortuna/FORTicketDetailVC.h"
+			],
+			[
+				"ticketactinview.m",
+				"Fortuna/FORTicketActionView.m"
+			],
+			[
+				"ticketactionview.",
+				"Fortuna/FORTicketActionView.h"
+			],
+			[
+				"quickticketvc",
+				"Fortuna/FORQuickTicketVC.m"
+			],
+			[
+				"livematchesvc",
+				"Fortuna/FORLiveMatchesVC.m"
+			],
+			[
+				"livematchdetailvc",
+				"Fortuna/FORLiveMatchDetailVC.m"
+			],
+			[
+				"forhomevc.",
+				"Fortuna/FORHomeVC.m"
+			],
+			[
+				"forcontactusvc",
+				"Fortuna/FORContactUsVC.m"
+			],
+			[
+				"ticketintera",
+				"app/src/main/java/cz/etnetera/fortuna/utils/TicketInteractionHelper.java"
+			],
+			[
+				"ticketfra",
+				"app/src/main/java/cz/etnetera/fortuna/fragments/ticket/TicketFragment.java"
+			],
+			[
+				"sendti",
+				"app/src/main/java/cz/etnetera/fortuna/model/SendTicketCommand.java"
+			],
+			[
+				"ticket.java",
+				"app/src/main/java/cz/etnetera/fortuna/services/rest/TicketService.java"
+			],
+			[
+				"ticketco",
+				"app/src/main/java/cz/etnetera/fortuna/model/TicketController.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
