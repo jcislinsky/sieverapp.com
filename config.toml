@@ -21,8 +21,8 @@ theme = "casper"
   myApp1Url = "https://itunes.apple.com/us/app/siever/id1276667985?ls=1&mt=8"
 
   cover = "images/cover.jpg"
-  author = "Jan Čislinský"
-  bio= "iOS developer ve společnosti Etnetera a.s."
+  author = "Siever"
+  bio= "Smart SMS Spam Blocker"
   authorlocation = ""
   authorwebsite = ""
   
