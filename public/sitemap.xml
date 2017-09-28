@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sieverapp.com/en/privacy-policy/</loc>
+    <lastmod>2017-09-28T13:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sieverapp.com/en/terms-of-use/</loc>
+    <lastmod>2017-09-28T13:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sieverapp.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sieverapp.com/en/</loc>
     <lastmod>2017-09-28T13:26:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/post-title/</loc>
+    <loc>https://sieverapp.com/</loc>
     <lastmod>2017-09-28T13:26:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sieverapp.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
